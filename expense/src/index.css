@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.content{
+  height: 84vh;
+}
+
+.navbar{
+  background-color: rgb(236, 191, 113) !important;
+}
+
+.register-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
